@@ -1,0 +1,11 @@
+.gonitro.com
+nitrous.exitfuel.com
+nitrous.internetfuel.com
+activate.gonitro.com
+licenses.gonitro.com
+services.gonitro.com
+updates.gonitro.com
+analytics.gonitro.com
+api.gonitro.com
+cdn.gonitro.com
+gonitro.com

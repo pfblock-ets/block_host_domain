@@ -1,0 +1,6 @@
+.mcneel.com
+.rhino3d.com
+accounts.rhino3d.com
+api.mcneel.com
+mcneel.com
+rhino3d.com
