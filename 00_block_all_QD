@@ -114,51 +114,6 @@ sso.trimble.com
 sketchup.google.com
 sketchup.l.google.com
 
-# ===== BLOCK_RENDER (FINAL) =====
-# --- Core domains ---
-.chaos.com
-.chaosgroup.com
-.corona-renderer.com
-.vray.com
-.enscape3d.com
-.enscape.com
-.enscape3d.net
-# --- License / Activation ---
-license.chaos.com
-licensing.chaos.com
-activation.chaos.com
-update.chaos.com
-license.chaosgroup.com
-licensing.chaosgroup.com
-.accounts.chaos.com
-.identity.chaos.com
-.oauth.chaos.com
-# --- Telemetry ---
-.telemetry.chaos.com
-.data.chaos.com
-# --- Chaos API / backend ---
-.api.chaos.com
-# --- V-Ray / Cloud ---
-.vraycloud.com
-.api.vraycloud.com
-# --- Corona ---
-.license.corona-renderer.com
-.api.corona-renderer.com
-# --- Enscape ---
-licensing.enscape3d.com
-activate.enscape3d.com
-update.enscape3d.com
-.api.enscape3d.com
-.backend.enscape3d.com
-.telemetry.enscape3d.com
-.logs.enscape3d.com
-# --- D5 Render ---
-.d5render.com
-.rpc.d5render.com
-.api.d5render.com
-.auth.d5render.com
-.cloud.d5render.com
-
 # ===== BLOCK_COREL =====
 .corel.com
 .coreldraw.com
