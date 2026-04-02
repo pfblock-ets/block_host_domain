@@ -1,0 +1,267 @@
+# ===== BLOCK_ADOBE (FINAL) =====
+# --- Core ---
+.adobe.com
+.adobe.io
+# --- Login / Identity ---
+.adobelogin.com
+.adobe-identity.com
+# --- License / Genuine ---
+.prod.adobegenuine.com
+.adobeactivate.com
+.adobeereg.com
+# --- Core Services ---
+.adobecc.com
+.ccmdl.adobe.com
+.cclibraries.adobe.com
+.assets.adobe.com
+.adobeccstatic.com
+.adobe-services.com
+.adobeoobe.com
+# --- API / Backend ---
+.adobejanus.com
+.adobedc.net
+.adobesc.com
+.adobetag.com
+.adobedtm.com
+.adobess.com
+# --- AI / Firefly ---
+.firefly.adobe.com
+.firefly.adobe.io
+.sensei.adobe.io
+.senseicore.adobe.io
+# --- Hidden / fallback ---
+.adobesunbreak.com
+.adobeprojectm.com
+.adobeexchange.com
+.adobestats.io
+
+# ===== BLOCK_AUTODESK (FINAL) =====
+# --- Core ---
+.autodesk.com
+.autodesk.eu
+.autodesk.net
+.autodesk360.com
+.autodeskcloud.com
+.adsk360.com
+# --- License / Activation ---
+license.autodesk.com
+.license.autodesk.com
+activation.autodesk.com
+.activation.autodesk.com
+lm.autodesk.com
+.lm.autodesk.com
+# --- Genuine check (RẤT QUAN TRỌNG) ---
+genuine-software.autodesk.com
+.genuine-software.autodesk.com
+genuine-software1.autodesk.com
+.genuine-software1.autodesk.com
+genuine-software2.autodesk.com
+.genuine-software2.autodesk.com
+genuine-software3.autodesk.com
+.genuine-software3.autodesk.com
+genuine-software4.autodesk.com
+.genuine-software4.autodesk.com
+# --- Account / SSO ---
+accounts.autodesk.com
+.accounts.autodesk.com
+identity.autodesk.com
+.identity.autodesk.com
+sso.autodesk.com
+.sso.autodesk.com
+# --- Cloud / Services ---
+nexus.autodesk.com
+services.adsk360.com
+.access.autodesk.com
+.clm.autodesk.com
+# --- API ---
+.autodesk.io
+.api.autodesk.com
+.developer.api.autodesk.com
+.cdn.autodesk.com
+.static.autodesk.com
+
+# ===== BLOCK_SKETCHUP (FULL) =====
+# --- Core ---
+.sketchup.com
+.api.sketchup.com
+accounts.sketchup.com
+account.sketchup.com
+# --- License / Entitlement ---
+license.sketchup.com
+licensing.sketchup.com
+entitlements.sketchup.com
+subscription.sketchup.com
+# --- Warehouse / Cloud (block luôn nếu muốn FULL) ---
+.extensionwarehouse.sketchup.com
+.3dwarehouse.sketchup.com
+# --- Trimble Core ---
+.trimble.com
+.trimblepaas.com
+.tekla.com
+# --- Auth / SSO ---
+.identity.trimble.com
+identity.trimble.com
+.sso.trimble.com
+sso.trimble.com
+.login.trimble.com
+.accounts.trimble.com
+# --- Trimble API / Backend ---
+.api.trimble.com
+.ec2.trimblecloud.com
+.connect.trimble.com
+.clients.trimble.com
+# --- Google legacy (SketchUp cũ) ---
+sketchup.google.com
+sketchup.l.google.com
+
+# ===== BLOCK_RENDER (FINAL) =====
+# --- Core domains ---
+.chaos.com
+.chaosgroup.com
+.corona-renderer.com
+.vray.com
+.enscape3d.com
+.enscape.com
+.enscape3d.net
+# --- License / Activation ---
+license.chaos.com
+licensing.chaos.com
+activation.chaos.com
+update.chaos.com
+license.chaosgroup.com
+licensing.chaosgroup.com
+.accounts.chaos.com
+.identity.chaos.com
+.oauth.chaos.com
+# --- Telemetry ---
+.telemetry.chaos.com
+.data.chaos.com
+# --- Chaos API / backend ---
+.api.chaos.com
+# --- V-Ray / Cloud ---
+.vraycloud.com
+.api.vraycloud.com
+# --- Corona ---
+.license.corona-renderer.com
+.api.corona-renderer.com
+# --- Enscape ---
+licensing.enscape3d.com
+activate.enscape3d.com
+update.enscape3d.com
+.api.enscape3d.com
+.backend.enscape3d.com
+.telemetry.enscape3d.com
+.logs.enscape3d.com
+# --- D5 Render ---
+.d5render.com
+.rpc.d5render.com
+.api.d5render.com
+.auth.d5render.com
+.cloud.d5render.com
+
+# ===== BLOCK_COREL =====
+.corel.com
+.coreldraw.com
+.coreldraw.app
+.videostudiopro.com
+# License / Activation
+licensing.corel.com
+registration.corel.com
+.validate.corel.com
+# Update / Services
+updates.corel.com
+.ipm.corel.com
+.mc.corel.com
+# Telemetry (bổ sung)
+.track.corel.com
+.metrics.corel.com
+.origin.corel.com
+
+# ===== BLOCK_LUMION =====
+lumion3d.net
+.lumion3d.net
+lumiontech.net
+.lumiontech.net
+# License
+license.lumiontech.net
+license.lumion3d.net
+# Services
+services.lumion3d.net
+.lumion-services.lumion.com
+.service-content.lumion.com
+# Download / Asset
+.downloadmanager.lumion3d.net
+.product-download-storage.lumion3d.net
+# Cloud (NEW)
+.account.lumion.com
+.cloud.lumion.com
+.api.lumion.com
+# Azure storage (Lumion dùng riêng → safe block)
+lumionservicestorage.blob.core.windows.net
+
+# ===== BLOCK_NITROPDF =====
+.gonitro.com
+.activate.gonitro.com
+.licenses.gonitro.com
+.services.gonitro.com
+.updates.gonitro.com
+.analytics.gonitro.com
+.api.gonitro.com
+.cdn.gonitro.com
+# Legacy tracking
+nitrous.exitfuel.com
+nitrous.internetfuel.com
+
+# ===== BLOCK_TECHSMITH =====
+.techsmith.com
+.login.techsmith.com
+.activation.cloud.techsmith.com
+.cloud.techsmith.com
+.services.techsmith.com
+.update.techsmith.com
+.api.techsmith.com
+.telemetry.techsmith.com
+# License server
+my.nalpeiron.com
+# Tracking
+.track.techsmith.com
+.oscount.techsmith.com
+.updater.techsmith.com
+.download.techsmith.com
+.event.techsmith.com
+
+# ===== BLOCK_VFX =====
+# --- Foundry ---
+.foundry.com
+license.foundry.com
+licensing-api.foundry.com
+.identity.foundry.com
+.id.foundry.com
+.api.foundry.com
+.downloads.foundry.com
+.users.foundry.com
+# --- Maxon ---
+.maxon.net
+.my.maxon.net
+.release-api.maxon.net
+.analytics.maxon.net
+# --- SideFX (Houdini) ---
+.sidefx.com
+.license.sidefx.com
+.telemetry.sidefx.com
+
+# ===== BLOCK_RHINO =====
+mcneel.com
+.mcneel.com
+rhino3d.com
+.rhino3d.com
+accounts.rhino3d.com
+.accounts.rhino3d.com
+api.mcneel.com
+.api.mcneel.com
+
+# ===== BLOCK_TELEMETRY =====
+.sentry.io
+.segment.io
+.mixpanel.com
+.amplitude.com
