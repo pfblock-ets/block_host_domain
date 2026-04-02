@@ -31,6 +31,7 @@ lcs-cops-proxy.adobe.com
 ic.adobe.io
 cc-api-data.adobe.io
 fp.adobestats.io
+lcs-cops.adobe.com
 4g1n9wc25y.adobestats.io
 4z1zypgkef.adobestats.io
 548g5qdx3a.adobestats.io
