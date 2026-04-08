@@ -1,30 +1,44 @@
+# ===== CORE & WILDCARDS =====
 .corel.com
 .coreldraw.com
 .coreldraw.app
 .videostudiopro.com
+.corelcloud.com
+.alludo.com
+# ===== LICENSING & AUTH =====
 licensing.corel.com
 registration.corel.com
-updates.corel.com
+activation.corel.com
+entitlement.corel.com
+subscription.corel.com
+id.corel.com
+auth.corel.com
+user.corel.com
+login.coreldraw.app
+# ===== APPS & BACKEND =====
 apps.corel.com
 mc.corel.com
 iws.corel.com
-compute-1.amazonaws.com
 origin-mc.corel.com
-coreldraw.com
-corelstore.com
-coreldraw.app
-corel.com
-.corel.com
-www.corel.com
-store.corel.com
-account.corel.com
-www.coreldraw.com
-cloud.coreldraw.app
+gateway.corel.com
+services.corel.com
+backend.corel.com
+config.corel.com
+api.corel.com
+api.account.corel.com
 api.coreldraw.app
-login.coreldraw.app
+# ===== ACCOUNT & STORE =====
+account.corel.com
+store.corel.com
+corelstore.com
 assets.coreldraw.app
+cloud.coreldraw.app
+# ===== UPDATES & WEB =====
+updates.corel.com
+corel.com
+www.corel.com
+coreldraw.com
+www.coreldraw.com
+coreldraw.app
 videostudiopro.com
 www.videostudiopro.com
-updates.corel.com
-licensing.corel.com
-registration.corel.com
