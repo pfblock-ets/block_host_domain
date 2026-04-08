@@ -1,24 +1,49 @@
-lumion3d.net
+# ===== LUMION CORE & WILDCARDS =====
 .lumion3d.net
-lumiontech.net
+lumion3d.net
 .lumiontech.net
-license.lumiontech.net
-license.lumion3d.net
-lumion-services.lumion.com
-services.lumion3d.net
-service-content.lumion.com
-downloadmanager.lumion3d.net
-product-download-storage.lumion3d.net
-lumionservicestorage.blob.core.windows.net
-lumion3d.net
-.lumion3d.net
-backup.lumion3d.net
-license.lumiontech.net
-license.lumion3d.net
 lumiontech.net
-lumion-services.lumion.com
+.lumion.com
+lumion.com
+# ===== LICENSING & AUTH =====
+license.lumion3d.net
+license.lumiontech.net
+auth.lumion.com
+id.lumion.com
+account.lumion.com
+entitlement.lumion.com
+subscription.lumion.com
+# ===== SERVICES & BACKEND =====
 services.lumion3d.net
+lumion-services.lumion.com
 service-content.lumion.com
-lumionservicestorage.blob.core.windows.net
+api.lumion.com
+gateway.lumion.com
+config.lumion.com
+# ===== DOWNLOAD & STORAGE =====
 downloadmanager.lumion3d.net
 product-download-storage.lumion3d.net
+backup.lumion3d.net
+cdn.lumion.com
+update.lumion.com
+# ===== CLOUD INFRA (MICROSOFT AZURE) =====
+lumionservicestorage.blob.core.windows.net
+# ===== TELEMETRY & ANALYTICS =====
+telemetry.lumion.com
+stats.lumion.com
+# ===== ADDITIONAL AUTH =====
+login.lumion.com
+user.lumion.com
+identity.lumion.com
+# ===== ADDITIONAL API =====
+backend.lumion.com
+services-api.lumion.com
+client-api.lumion.com
+# ===== UPDATE / VERSION =====
+updates.lumion.com
+version.lumion.com
+release.lumion.com
+# ===== EXTENDED TELEMETRY =====
+analytics.lumion.com
+tracking.lumion.com
+events.lumion.com
