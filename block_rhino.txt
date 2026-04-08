@@ -1,6 +1,29 @@
+# ===== RHINO / MCNEEL CORE =====
 .mcneel.com
 .rhino3d.com
-accounts.rhino3d.com
-api.mcneel.com
-mcneel.com
-rhino3d.com
+# ===== ACCOUNT & AUTHENTICATION =====
+accounts.rhino3d.com        # Main account service
+login.rhino3d.com           # Login portal
+id.rhino3d.com              # Identity provider
+auth.rhino3d.com            # Authentication service
+account.mcneel.com          # McNeel account system
+# ===== LICENSING =====
+license.rhino3d.com         # License validation
+licenses.rhino3d.com        # License service
+validation.rhino3d.com      # License verification
+zoo.mcneel.com              # Rhino Zoo license server
+cloudzoo.rhino3d.com        # Cloud Zoo licensing (Rhino 7/8)
+# ===== API & BACKEND =====
+api.mcneel.com              # Core API
+api.rhino3d.com             # Rhino API endpoint
+gateway.rhino3d.com         # API gateway
+backend.rhino3d.com         # Backend services
+services.rhino3d.com        # Core services
+# ===== UPDATES & DOWNLOAD =====
+update.rhino3d.com          # Update check
+updates.rhino3d.com         # Update service
+download.rhino3d.com        # Installer / packages
+# ===== TELEMETRY (OPTIONAL) =====
+telemetry.rhino3d.com       # Usage tracking
+analytics.rhino3d.com       # Analytics
+stats.rhino3d.com           # Metrics
