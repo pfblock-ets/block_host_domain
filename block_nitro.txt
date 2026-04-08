@@ -1,11 +1,33 @@
+# ===== NITRO CORE DOMAIN =====
 .gonitro.com
-nitrous.exitfuel.com
-nitrous.internetfuel.com
-activate.gonitro.com
-licenses.gonitro.com
-services.gonitro.com
-updates.gonitro.com
-analytics.gonitro.com
-api.gonitro.com
-cdn.gonitro.com
-gonitro.com
+# ===== ACTIVATION & LICENSING =====
+activate.gonitro.com        # Initial activation endpoint
+activation.gonitro.com      # License validation / re-check
+licenses.gonitro.com        # License server
+entitlement.gonitro.com     # Subscription entitlement check
+subscription.gonitro.com    # Subscription status validation
+# ===== AUTHENTICATION & ACCOUNT =====
+auth.gonitro.com            # Authentication service
+id.gonitro.com              # Identity provider
+account.gonitro.com         # User account management
+login.gonitro.com           # Login portal / SSO
+# ===== CORE API & BACKEND =====
+api.gonitro.com             # Main API endpoint
+gateway.gonitro.com         # API gateway / routing
+backend.gonitro.com         # Backend services
+client-api.gonitro.com      # Client-side API calls
+config.gonitro.com          # Remote configuration
+# ===== SERVICES =====
+services.gonitro.com        # Core application services
+# ===== UPDATES =====
+updates.gonitro.com         # Software updates / version check
+# ===== CDN & STATIC CONTENT (OPTIONAL BLOCK) =====
+cdn.gonitro.com             # Static assets (UI, fonts, resources)
+# ===== ANALYTICS & TELEMETRY =====
+analytics.gonitro.com       # Usage analytics
+tracking.gonitro.com        # User tracking
+events.gonitro.com          # Event logging
+stats.gonitro.com           # Metrics / statistics
+# ===== AD / DISTRIBUTION NETWORK =====
+nitrous.exitfuel.com        # Ad / distribution tracking
+nitrous.internetfuel.com    # Ad / tracking backend
