@@ -1,23 +1,43 @@
+#===== CORE =====
+.foundry.com
 foundry.com
-.foundry.com
-license.foundry.com
-identity.foundry.com
-api.foundry.com
-licensing-api.foundry.com
-id.foundry.com
-users.foundry.com
-downloads.foundry.com
+.sidefx.com
 sidefx.com
-.sidefx.com
-maxon.net
 .maxon.net
+maxon.net
+#===== LICENSE / AUTH (CRITICAL BLOCK) =====
 license.foundry.com
 licensing-api.foundry.com
 identity.foundry.com
 id.foundry.com
 users.foundry.com
+licensing.sidefx.com
+license.sidefx.com
+license.maxon.net
+licensing.maxon.net
+auth.maxon.net
+gateway.foundry.com
+config.foundry.com
+account.maxon.net
+identity.maxon.net
+cloud.sidefx.com
+#===== API / BACKEND =====
 api.foundry.com
+services.foundry.com
+api.sidefx.com
+www.sidefx.com
+api.maxon.net
+my.maxon.net
+#===== DOWNLOAD / UPDATE =====
 downloads.foundry.com
-.foundry.com
-.sidefx.com
-.maxon.net
+download.foundry.com
+sidefx.com/download
+launcher.sidefx.com
+dl.maxon.net
+updates.maxon.net
+#===== TELEMETRY / TRACKING =====
+tracking.foundry.com
+stats.foundry.com
+tracking.sidefx.com
+tracking.maxon.net
+analytics.maxon.net
