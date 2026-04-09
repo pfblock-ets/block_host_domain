@@ -1,13 +1,26 @@
+#===== CORE (WILDCARD) =====
 .techsmith.com
 techsmith.com
-my.nalpeiron.com
-login.techsmith.com
+#===== LICENSE / ACTIVATION =====
 activation.cloud.techsmith.com
-cloud.techsmith.com
-services.techsmith.com
-update.techsmith.com
+my.nalpeiron.com
+#===== AUTH / ACCOUNT =====
+login.techsmith.com
+account.techsmith.com
+identity.techsmith.com
+auth.techsmith.com
+#===== API / BACKEND =====
 api.techsmith.com
-track.techsmith.com
-download.techsmith.com
-oscount.techsmith.com
+services.techsmith.com
+cloud.techsmith.com
+#===== UPDATE / DOWNLOAD =====
+update.techsmith.com
 updater.techsmith.com
+download.techsmith.com
+cdn.techsmith.com
+#===== TELEMETRY / TRACKING =====
+track.techsmith.com
+oscount.techsmith.com
+stats.techsmith.com
+analytics.techsmith.com
+events.techsmith.com
