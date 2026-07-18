@@ -1,0 +1,143 @@
+# ===== BLOCK_ADOBE (FINAL) =====
+# --- Core ---
+.adobe.com
+.adobe.io
+# --- Login / Identity ---
+.adobelogin.com
+.adobe-identity.com
+# --- License / Genuine ---
+.prod.adobegenuine.com
+.adobeactivate.com
+.adobeereg.com
+# --- Core Services ---
+.adobecc.com
+.ccmdl.adobe.com
+.cclibraries.adobe.com
+.assets.adobe.com
+.adobeccstatic.com
+.adobe-services.com
+.adobeoobe.com
+# --- API / Backend ---
+.adobejanus.com
+.adobedc.net
+.adobesc.com
+.adobetag.com
+.adobedtm.com
+.adobess.com
+# --- AI / Firefly ---
+.firefly.adobe.com
+.firefly.adobe.io
+.sensei.adobe.io
+.senseicore.adobe.io
+# --- Hidden / fallback ---
+.adobesunbreak.com
+.adobeprojectm.com
+.adobeexchange.com
+.adobestats.io
+
+# ===== BLOCK_COREL =====
+.corel.com
+.coreldraw.com
+.coreldraw.app
+.videostudiopro.com
+# License / Activation
+licensing.corel.com
+registration.corel.com
+.validate.corel.com
+# Update / Services
+updates.corel.com
+.ipm.corel.com
+.mc.corel.com
+# Telemetry (bổ sung)
+.track.corel.com
+.metrics.corel.com
+.origin.corel.com
+
+# ===== BLOCK_LUMION =====
+lumion3d.net
+.lumion3d.net
+lumiontech.net
+.lumiontech.net
+# License
+license.lumiontech.net
+license.lumion3d.net
+# Services
+services.lumion3d.net
+.lumion-services.lumion.com
+.service-content.lumion.com
+# Download / Asset
+.downloadmanager.lumion3d.net
+.product-download-storage.lumion3d.net
+# Cloud (NEW)
+.account.lumion.com
+.cloud.lumion.com
+.api.lumion.com
+# Azure storage (Lumion dùng riêng → safe block)
+lumionservicestorage.blob.core.windows.net
+
+# ===== BLOCK_NITROPDF =====
+.gonitro.com
+.activate.gonitro.com
+.licenses.gonitro.com
+.services.gonitro.com
+.updates.gonitro.com
+.analytics.gonitro.com
+.api.gonitro.com
+.cdn.gonitro.com
+# Legacy tracking
+nitrous.exitfuel.com
+nitrous.internetfuel.com
+
+# ===== BLOCK_TECHSMITH =====
+.techsmith.com
+.login.techsmith.com
+.activation.cloud.techsmith.com
+.cloud.techsmith.com
+.services.techsmith.com
+.update.techsmith.com
+.api.techsmith.com
+.telemetry.techsmith.com
+# License server
+my.nalpeiron.com
+# Tracking
+.track.techsmith.com
+.oscount.techsmith.com
+.updater.techsmith.com
+.download.techsmith.com
+.event.techsmith.com
+
+# ===== BLOCK_VFX =====
+# --- Foundry ---
+.foundry.com
+license.foundry.com
+licensing-api.foundry.com
+.identity.foundry.com
+.id.foundry.com
+.api.foundry.com
+.downloads.foundry.com
+.users.foundry.com
+# --- Maxon ---
+.maxon.net
+.my.maxon.net
+.release-api.maxon.net
+.analytics.maxon.net
+# --- SideFX (Houdini) ---
+.sidefx.com
+.license.sidefx.com
+.telemetry.sidefx.com
+
+# ===== BLOCK_RHINO =====
+mcneel.com
+.mcneel.com
+rhino3d.com
+.rhino3d.com
+accounts.rhino3d.com
+.accounts.rhino3d.com
+api.mcneel.com
+.api.mcneel.com
+
+# ===== BLOCK_TELEMETRY =====
+.sentry.io
+.segment.io
+.mixpanel.com
+.amplitude.com
