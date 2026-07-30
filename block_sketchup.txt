@@ -49,7 +49,6 @@ connect.trimble.com
 cloud.trimble.com
 platform.trimble.com
 #===== DOWNLOAD / UPDATE =====
-download.sketchup.com
 updates.sketchup.com
 tscupdater-live.trafficmanager.net
 #===== SERVICES =====
