@@ -93,7 +93,6 @@ entitlements.sketchup.com
 subscription.sketchup.com
 # --- Warehouse / Cloud (block luôn nếu muốn FULL) ---
 .extensionwarehouse.sketchup.com
-.3dwarehouse.sketchup.com
 # --- Trimble Core ---
 .trimble.com
 .trimblepaas.com
