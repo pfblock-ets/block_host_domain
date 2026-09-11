@@ -1,0 +1,367 @@
+# ===== BLOCK_ADOBE (FINAL) =====
+# --- Core ---
+.adobe.com
+.adobe.io
+# --- Login / Identity ---
+.adobelogin.com
+.adobe-identity.com
+# --- License / Genuine ---
+.prod.adobegenuine.com
+.adobeactivate.com
+.adobeereg.com
+.genuine.adobe.com # [NEW 2026]
+.ags-service.adobe.com # [NEW 2026]
+detect-ccd.creativecloud.adobe.com # [NEW 2026]
+ic.adobe.io # [NEW 2026]
+.lm.licenses.adobe.com # [NEW 2026]
+.resources.licenses.adobe.com # [NEW 2026]
+.cs.licenses.adobe.com # [NEW 2026]
+.exception.licenses.adobe.com # [NEW 2026]
+.pubcerts.licenses.adobe.com # [NEW 2026]
+.workflow.licenses.adobe.com # [NEW 2026]
+.auth.services.adobe.com # [NEW 2026]
+.lm-prd-da1.licenses.adobe.com # [NEW 2026]
+.licenses.adobe.com # [NEW 2026]
+.license.adobe.com # [NEW 2026]
+.na1r.services.adobe.com # [NEW 2026]
+.na2m.services.adobe.com # [NEW 2026]
+.na4r.services.adobe.com # [NEW 2026]
+.na1e.services.adobe.com # [NEW 2026]
+.na1m.services.adobe.com # [NEW 2026]
+.activate.adobe.com # [NEW 2026]
+.practivate.adobe.com # [NEW 2026]
+.practivate-da1.adobe.com # [NEW 2026]
+.activate-sea.adobe.com # [NEW 2026]
+.activate-sjc0.adobe.com # [NEW 2026]
+.hl2rcv.adobe.com # [NEW 2026]
+.ereport.adobe.com # [NEW 2026]
+.crs.cr.adobe.com # [NEW 2026]
+# --- Core Services ---
+.adobecc.com
+.ccmdl.adobe.com
+.cclibraries.adobe.com
+.assets.adobe.com
+.adobeccstatic.com
+.adobe-services.com
+.adobeoobe.com
+.hcs.cloud.adobe.com # [NEW 2026]
+.prod.adobeccstatic.com # [NEW 2026]
+.ffc-static-cdn.oobesaas.adobe.com # [NEW 2026]
+.cclibraries-defaults-cdn.adobe.com # [NEW 2026]
+.adobesearch.adobe.io # [NEW 2026]
+.1b9khekel6.adobe.io # [NEW 2026]
+# --- API / Backend ---
+.adobejanus.com
+.adobedc.net
+.adobesc.com
+.adobetag.com
+.adobedtm.com
+.adobess.com
+.ic.adobe.io # [NEW 2026]
+.cc-api-data.adobe.io # [NEW 2026]
+# --- AI / Firefly ---
+.firefly.adobe.com
+.firefly.adobe.io
+.sensei.adobe.io
+.senseicore.adobe.io
+# --- Hidden / fallback ---
+.adobesunbreak.com
+.adobeprojectm.com
+.adobeexchange.com
+.adobestats.io
+.adobestats.com # [NEW 2026]
+.lualua.adobe.com # [NEW 2026]
+.o1383653.ingest.sentry.io # [NEW 2026]
+
+# ===== BLOCK_AUTODESK (FINAL) =====
+# --- Core ---
+.autodesk.com
+.autodesk.eu
+.autodesk.net
+.autodesk360.com
+.autodeskcloud.com
+.adsk360.com
+# --- License / Activation ---
+license.autodesk.com
+.license.autodesk.com
+activation.autodesk.com
+.activation.autodesk.com
+lm.autodesk.com
+.lm.autodesk.com
+.licensing.autodesk.com # [NEW 2026]
+.licensing.flexnetoperations.com # [NEW 2026]
+# --- Genuine check (RẤT QUAN TRỌNG) ---
+genuine-software.autodesk.com
+.genuine-software.autodesk.com
+genuine-software1.autodesk.com
+.genuine-software1.autodesk.com
+genuine-software2.autodesk.com
+.genuine-software2.autodesk.com
+genuine-software3.autodesk.com
+.genuine-software3.autodesk.com
+genuine-software4.autodesk.com
+.genuine-software4.autodesk.com
+genuine-software5.autodesk.com # [NEW 2026]
+.genuine-software5.autodesk.com # [NEW 2026]
+# --- Account / SSO ---
+accounts.autodesk.com
+.accounts.autodesk.com
+identity.autodesk.com
+.identity.autodesk.com
+sso.autodesk.com
+.sso.autodesk.com # [NEW 2026]
+.access.clic.autodesk.com # [NEW 2026]
+.clm.clic.autodesk.com # [NEW 2026]
+.cdn.accounts.autodesk.com # [NEW 2026]
+.cur.autodesk.com # [NEW 2026]
+.signin.autodesk.com # [NEW 2026]
+.registeronce.autodesk.com # [NEW 2026]
+.auth.autodesk.com # [NEW 2026]
+.native.auth.autodesk.com # [NEW 2026]
+.profile.autodesk.com # [NEW 2026]
+.api.userprofile.autodesk.com # [NEW 2026]
+.vlh.autodesk.com # [NEW 2026]
+.authn.autodesk.com # [NEW 2026]
+# --- Cloud / Services ---
+nexus.autodesk.com
+services.adsk360.com
+.access.autodesk.com
+.clm.autodesk.com
+clm.autodesk.com # [NEW 2026]
+.ipm.autodesk.com # [NEW 2026]
+# --- API ---
+.autodesk.io
+.api.autodesk.com
+.developer.api.autodesk.com
+.cdn.autodesk.com
+.static.autodesk.com
+
+# ===== BLOCK_SKETCHUP (FULL) =====
+# --- Core ---
+.sketchup.com
+.api.sketchup.com
+accounts.sketchup.com
+account.sketchup.com
+.app.sketchup.com # [NEW 2026]
+# --- License / Entitlement ---
+license.sketchup.com
+licensing.sketchup.com
+.licensing.sketchup.com # [NEW 2026]
+entitlements.sketchup.com
+subscription.sketchup.com
+.licensing.trimble.com # [NEW 2026]
+legacy-entitlements.sketchup.com # [NEW 2026]
+license1.sketchup.com # [NEW 2026]
+license2.sketchup.com # [NEW 2026]
+# --- Warehouse / Cloud (block luôn nếu muốn FULL) ---
+.extensionwarehouse.sketchup.com
+.3dwarehouse.sketchup.com
+# --- Trimble Core ---
+.trimble.com
+.trimblepaas.com
+.tekla.com
+.trimblecloud.com # [NEW 2026]
+# --- Auth / SSO ---
+.identity.trimble.com
+identity.trimble.com
+.sso.trimble.com
+sso.trimble.com
+.login.trimble.com
+.accounts.trimble.com
+.id.trimble.com # [NEW 2026]
+.ecom-prd.trimblepaas.com # [NEW 2026]
+.mxp-api.trimble.com # [NEW 2026]
+# --- Trimble API / Backend ---
+.api.trimble.com
+.ec2.trimblecloud.com
+.connect.trimble.com
+.clients.trimble.com
+# --- Google legacy (SketchUp cũ) ---
+sketchup.google.com
+sketchup.l.google.com
+
+# ===== BLOCK_RENDER (FINAL) =====
+# --- Core domains ---
+.chaos.com
+.chaosgroup.com
+.corona-renderer.com
+.vray.com
+.enscape3d.com
+.enscape.com
+.enscape3d.net
+# --- License / Activation ---
+license.chaos.com
+licensing.chaos.com
+.license.chaos.com # [NEW 2026]
+.licensing.chaos.com # [NEW 2026]
+activation.chaos.com
+update.chaos.com
+license.chaosgroup.com
+licensing.chaosgroup.com
+.ols.chaos.com
+.accounts.chaos.com
+.identity.chaos.com
+.oauth.chaos.com
+.my.chaos.com # [NEW 2026]
+my.chaos.com # [NEW 2026]
+.account.chaos.com # [NEW 2026]
+# --- Telemetry ---
+.telemetry.chaos.com
+.data.chaos.com
+.analytics.chaos.com # [NEW 2026]
+# --- Chaos API / backend ---
+.api.chaos.com
+# --- V-Ray / Cloud ---
+.vraycloud.com
+.api.vraycloud.com
+# --- Corona ---
+.license.corona-renderer.com
+.api.corona-renderer.com
+# --- Enscape ---
+licensing.enscape3d.com
+activate.enscape3d.com
+update.enscape3d.com
+.api.enscape3d.com
+.api2.enscape3d.com
+.backend.enscape3d.com
+.telemetry.enscape3d.com
+.logs.enscape3d.com
+api2.enscape3d.com # [NEW 2026]
+my.enscape3d.com # [NEW 2026]
+# --- D5 Render ---
+.d5render.com
+.rpc.d5render.com
+.api.d5render.com
+.auth.d5render.com
+.cloud.d5render.com
+
+# ===== BLOCK_COREL =====
+.corel.com
+.coreldraw.com
+.coreldraw.app
+.videostudiopro.com
+.corel.net # [NEW 2026]
+.corel.io # [NEW 2026]
+# License / Activation
+licensing.corel.com
+registration.corel.com
+.validate.corel.com
+.my.corel.com # [NEW 2026]
+# Update / Services
+updates.corel.com
+.ipm.corel.com
+.mc.corel.com
+# Telemetry (bổ sung)
+.track.corel.com
+.metrics.corel.com
+.origin.corel.com
+
+# ===== BLOCK_LUMION =====
+lumion3d.net
+.lumion3d.net
+lumiontech.net
+.lumiontech.net
+# License
+license.lumiontech.net
+license.lumion3d.net
+license.lumion.com # [NEW 2026]
+# Services
+services.lumion3d.net
+.lumion-services.lumion.com
+.service-content.lumion.com
+# Download / Asset
+.downloadmanager.lumion3d.net
+.product-download-storage.lumion3d.net
+# Cloud (NEW)
+.account.lumion.com
+.cloud.lumion.com
+.api.lumion.com
+.lumion.com # [NEW 2026]
+.support.lumion.com # [NEW 2026]
+# Azure storage (Lumion dùng riêng → safe block)
+lumionservicestorage.blob.core.windows.net
+
+# ===== BLOCK_NITROPDF =====
+.gonitro.com
+.activate.gonitro.com
+.licenses.gonitro.com
+.services.gonitro.com
+.updates.gonitro.com
+.analytics.gonitro.com
+.api.gonitro.com
+.cdn.gonitro.com
+.nitro.com # [NEW 2026]
+admin.gonitro.com # [NEW 2026]
+static.gonitro.com # [NEW 2026]
+# Legacy tracking
+nitrous.exitfuel.com
+nitrous.internetfuel.com
+
+# ===== BLOCK_TECHSMITH =====
+.techsmith.com
+.login.techsmith.com
+.activation.cloud.techsmith.com
+.cloud.techsmith.com
+.services.techsmith.com
+.update.techsmith.com
+.api.techsmith.com
+.telemetry.techsmith.com
+.camtasia.com # [NEW 2026]
+# License server
+my.nalpeiron.com
+nsa.nalpeiron.com # [NEW 2026]
+# Tracking
+.track.techsmith.com
+.oscount.techsmith.com
+.updater.techsmith.com
+.download.techsmith.com
+.event.techsmith.com
+
+# ===== BLOCK_VFX =====
+# --- Foundry ---
+.foundry.com
+license.foundry.com
+licensing-api.foundry.com
+.licensing.foundry.com # [NEW 2026]
+.identity.foundry.com
+.id.foundry.com
+.api.foundry.com
+.downloads.foundry.com
+.users.foundry.com
+# --- Maxon ---
+.maxon.net
+.my.maxon.net
+.release-api.maxon.net
+.analytics.maxon.net
+.licensing.maxon.net # [NEW 2026]
+.id.maxon.net # [NEW 2026]
+# --- SideFX (Houdini) ---
+.sidefx.com
+.license.sidefx.com
+.telemetry.sidefx.com
+
+# ===== BLOCK_RHINO =====
+mcneel.com
+.mcneel.com
+rhino3d.com
+.rhino3d.com
+accounts.rhino3d.com
+.accounts.rhino3d.com
+api.mcneel.com
+.api.mcneel.com
+licenses.rhino3d.com # [NEW 2026]
+.licenses.rhino3d.com # [NEW 2026]
+
+# ===== BLOCK_TELEMETRY =====
+.sentry.io
+.segment.io
+.mixpanel.com
+.amplitude.com
+.bugsnag.com # [NEW 2026]
+.posthog.com # [NEW 2026]
+.datadoghq.com # [NEW 2026]
+# ===== BLOCK_TELEMETRY_2026_SAFE_UPDATE (2026-09-11) =====
+# --- TechSmith Crash Reporting (Safe to block) ---
+.sp.backtrace.io
+submit.backtrace.io
+events.backtrace.io
