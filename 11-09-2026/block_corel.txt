@@ -1,0 +1,128 @@
+# ===== BLOCK_COREL LICENSE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation / entitlement của Corel
+# ===== 1. CORE =====
+.corel.com
+.coreldraw.com
+.coreldraw.app
+.videostudiopro.com
+.corel.net
+.corel.io
+.corelcloud.com
+.alludo.com
+.painterartist.com
+# ===== 2. LICENSE / ACTIVATION / ENTITLEMENT (Quan trọng nhất) =====
+licensing.corel.com
+registration.corel.com
+.validate.corel.com
+activation.corel.com
+entitlement.corel.com
+subscription.corel.com
+.my.corel.com
+my.corel.com
+myaccount.corel.com
+iws.corel.com
+licensing.alludo.com
+licensing2.corel.com
+licensing2.alludo.com
+# ===== 3. ACCOUNT / AUTH / IDENTITY =====
+id.corel.com
+auth.corel.com
+login.coreldraw.app
+account.corel.com
+idp.corel.com
+api.account.corel.com
+user.corel.com
+# ===== 4. BACKEND liên quan license =====
+.mc.corel.com
+mc.corel.com
+.origin.corel.com
+origin-mc.corel.com
+gateway.corel.com
+services.corel.com
+backend.corel.com
+api.corel.com
+api.coreldraw.app
+.ipm.corel.com
+ipm.corel.com
+ipm.coreldraw.com
+ipp.corel.com
+ppi.corel.com
+tps.corel.com
+corelservice.corel.com
+# ===== 5. UPDATES (có thể liên quan kiểm tra license) =====
+updates.corel.com
+installer.corel.com
+# ===== 1. CORE & WILDCARDS =====
+corel.com
+coreldraw.com
+coreldraw.app
+videostudiopro.com
+.corel.net # [NEW 2026]
+.corel.io # [NEW 2026]
+.corelcloud.com # [NEW]
+.alludo.com # [NEW]
+# ===== 2. LICENSE / ACTIVATION / ENTITLEMENT =====
+activation.corel.com # [NEW]
+entitlement.corel.com # [NEW]
+subscription.corel.com # [NEW]
+.my.corel.com # [NEW 2026]
+iws.corel.com # [NEW] (Authentication server)
+licensing.alludo.com # [NEW]
+licensing2.corel.com # [NEW]
+licensing2.alludo.com # [NEW]
+id.corel.com # [NEW]
+auth.corel.com # [NEW]
+user.corel.com # [NEW]
+login.coreldraw.app # [NEW]
+account.corel.com # [NEW]
+idp.corel.com # [NEW]
+api.account.corel.com # [NEW]
+# ===== 4. APPS & BACKEND =====
+apps.corel.com # [NEW]
+iws.corel.com # [NEW]
+origin-mc.corel.com # [NEW]
+gateway.corel.com # [NEW]
+services.corel.com # [NEW]
+backend.corel.com # [NEW]
+config.corel.com # [NEW]
+api.corel.com # [NEW]
+api.coreldraw.app # [NEW]
+product.corel.com # [NEW]
+sp.corel.com # [NEW]
+learn.corel.com # [NEW]
+# ===== 5. ACCOUNT & STORE =====
+store.corel.com # [NEW]
+corelstore.com # [NEW]
+assets.coreldraw.app # [NEW]
+cloud.coreldraw.app # [NEW]
+# ===== 6. UPDATES & SERVICES =====
+.ipm.corel.com # [NEW 2026]
+ipp.corel.com # [NEW]
+ppi.corel.com # [NEW]
+tps.corel.com # [NEW]
+ipm.coreldraw.com # [NEW]
+content.coreldraw.com # [NEW]
+corelservice.corel.com # [NEW]
+installer.corel.com # [NEW]
+# ===== 7. TELEMETRY / TRACKING =====
+.track.corel.com
+.metrics.corel.com
+telemetry.alludo.com # [NEW]
+telemetry.corel.com # [NEW]
+analytics.corel.com # [NEW]
+# ===== 8. LEGACY / REGIONAL =====
+dev.www.corel.public.corel.net # [NEW 2026]
+# ===== APPS & BACKEND =====
+apps.corel.com
+config.corel.com
+# ===== ACCOUNT & STORE =====
+store.corel.com
+corelstore.com
+assets.coreldraw.app
+cloud.coreldraw.app
+# ===== UPDATES & WEB =====
+www.corel.com
+www.coreldraw.com
+www.videostudiopro.com
+content.coreldraw.com
+telemetry.alludo.com
