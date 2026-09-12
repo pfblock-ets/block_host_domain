@@ -1,0 +1,121 @@
+# ===== BLOCK_LUMION LICENSE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation của Lumion
+# ===== 1. CORE =====
+.lumion3d.net
+.lumiontech.net
+.lumion.com
+.act3d.com
+# ===== 2. LICENSE / ACTIVATION (Quan trọng nhất) =====
+license.lumion3d.net
+license.lumiontech.net
+license.lumion.com
+licensing.lumion.com
+licenses.lumion3d.net
+amazon-license.lumion3d.net
+activation.lumion3d.net
+activate.lumion3d.com
+entitlement.lumion.com
+subscription.lumion.com
+license.act3d.com
+backup.lumion3d.net
+backup.lumion3d.com
+# ===== 3. ACCOUNT / AUTH / IDENTITY =====
+.account.lumion.com
+account.lumion.com
+identity.lumion.com
+auth.lumion.com
+id.lumion.com
+login.lumion.com
+user.lumion.com
+security.lumion.com
+# ===== 4. SERVICES / BACKEND / API =====
+services.lumion3d.net
+.lumion-services.lumion.com
+.service-content.lumion.com
+.api.lumion.com
+api.lumion.com
+gateway.lumion.com
+config.lumion.com
+backend.lumion.com
+services-api.lumion.com
+client-api.lumion.com
+.cloud.lumion.com
+cloud.lumion.com
+# ===== 5. CLOUD INFRA (Azure - dùng cho license/service) =====
+lumionservicestorage.blob.core.windows.net
+# ===== 1. LUMION CORE & WILDCARDS =====
+lumion3d.net
+lumiontech.net
+.lumion.com # [NEW 2026]
+lumion.com
+.act3d.com # [NEW]
+act3d.com
+# ===== 2. LICENSE / ACTIVATION =====
+license.lumion.com # [NEW 2026]
+licensing.lumion.com # [NEW]
+licenses.lumion3d.net # [NEW]
+amazon-license.lumion3d.net # [NEW] (Cloud license server)
+activation.lumion3d.net # [NEW]
+activate.lumion3d.com # [NEW]
+entitlement.lumion.com # [NEW]
+subscription.lumion.com # [NEW]
+license.act3d.com # [NEW]
+backup.lumion3d.net # [NEW]
+backup.lumion3d.com # [NEW]
+identity.lumion.com # [NEW]
+auth.lumion.com # [NEW]
+id.lumion.com # [NEW]
+login.lumion.com # [NEW]
+user.lumion.com # [NEW]
+security.lumion.com # [NEW]
+gateway.lumion.com # [NEW]
+config.lumion.com # [NEW]
+backend.lumion.com # [NEW]
+services-api.lumion.com # [NEW]
+client-api.lumion.com # [NEW]
+# ===== 5. DOWNLOAD / UPDATE / CDN =====
+.downloadmanager.lumion3d.net
+.product-download-storage.lumion3d.net
+.download.lumion.com # [NEW]
+cdn.lumion.com # [NEW]
+update.lumion.com # [NEW]
+updates.lumion.com # [NEW]
+version.lumion.com # [NEW]
+release.lumion.com # [NEW]
+lumion-cdn.azureedge.net # [NEW] (Azure CDN for Lumion)
+# ===== 7. TELEMETRY / ANALYTICS / TRACKING =====
+telemetry.lumion.com # [NEW]
+stats.lumion.com # [NEW]
+analytics.lumion.com # [NEW]
+tracking.lumion.com # [NEW]
+events.lumion.com # [NEW]
+telemetry.act3d.com # [NEW]
+# ===== 8. SUPPORT / DOCS =====
+.support.lumion.com # [NEW 2026]
+support.lumion.com # [NEW]
+docs.lumion.com # [NEW]
+# ===== 9. LEGACY / ADDITIONAL =====
+upload.lumion3d.net # [NEW]
+upload.lumion3d.com # [NEW]
+www.lumion3d.com # [NEW]
+www.lumion.com # [NEW]
+# ===== SERVICES & BACKEND =====
+lumion-services.lumion.com
+service-content.lumion.com
+# ===== DOWNLOAD & STORAGE =====
+downloadmanager.lumion3d.net
+product-download-storage.lumion3d.net
+cdn.lumion.com
+update.lumion.com
+# ===== TELEMETRY & ANALYTICS =====
+telemetry.lumion.com
+stats.lumion.com
+# ===== UPDATE / VERSION =====
+updates.lumion.com
+version.lumion.com
+release.lumion.com
+# ===== EXTENDED TELEMETRY =====
+analytics.lumion.com
+tracking.lumion.com
+events.lumion.com
+lumion-cdn.azureedge.net
