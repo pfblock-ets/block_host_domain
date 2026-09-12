@@ -1,0 +1,169 @@
+# ===== BLOCK_SKETCHUP LICENSE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation / entitlement của SketchUp & Trimble
+# ===== 1. CORE =====
+.sketchup.com
+.api.sketchup.com
+accounts.sketchup.com
+account.sketchup.com
+.app.sketchup.com
+login.sketchup.com
+my.sketchup.com
+# ===== 2. SKETCHUP LICENSE / ENTITLEMENT (Quan trọng nhất) =====
+license.sketchup.com
+licensing.sketchup.com
+.licensing.sketchup.com
+license1.sketchup.com
+license2.sketchup.com
+license3.sketchup.com
+license4.sketchup.com
+license5.sketchup.com
+license6.sketchup.com
+license7.sketchup.com
+license8.sketchup.com
+entitlements.sketchup.com
+subscription.sketchup.com
+legacy-entitlements.sketchup.com
+gsuite-entitlements.sketchup.com
+# ===== 3. TRIMBLE CORE =====
+.trimble.com
+.trimblepaas.com
+.trimblecloud.com
+.tekla.com
+# ===== 4. TRIMBLE IDENTITY / AUTH / SSO (Rất quan trọng) =====
+.identity.trimble.com
+identity.trimble.com
+.sso.trimble.com
+sso.trimble.com
+.login.trimble.com
+.accounts.trimble.com
+accounts.trimble.com
+.id.trimble.com
+id.trimble.com
+us.id.trimble.com
+oauth.trimble.com
+auth.trimble.com
+auth.trimblepaas.com
+id.trimblepaas.com
+ecom-prd.trimblepaas.com
+.ecom-prd.trimblepaas.com
+ecom-api.trimble.com
+ecom.trimble.com
+.mxp-api.trimble.com
+mxp-api.trimble.com
+# ===== 5. TRIMBLE LICENSE / BACKEND =====
+.api.trimble.com
+api.trimble.com
+api.trimblepaas.com
+license-manager.trimble.com
+licensing-edge.trimble.com
+.licensing.trimble.com
+.connect.trimble.com
+.clients.trimble.com
+platform.trimble.com
+# ===== 6. ENSCAPE (nếu dùng SketchUp Studio) =====
+.api.enscape3d.com
+.api2.enscape3d.com
+licensing.enscape3d.com
+lic.enscape3d.com
+licensing.inreal-tech.com
+# ===== 7. TEKLA (nếu dùng chung hệ Trimble) =====
+account.tekla.com
+activate.tekla.com
+api.account.tekla.com
+tid-proxy.cloud.tekla.com
+# ===== 8. GOOGLE LEGACY (SketchUp cũ) =====
+sketchup.google.com
+sketchup.l.google.com
+# ===== 1. CORE SKETCHUP =====
+sketchup.com
+api.sketchup.com
+.app.sketchup.com # [NEW 2026]
+gateway.sketchup.com
+config.sketchup.com
+services.sketchup.com
+client.sketchup.com
+profile.sketchup.com
+help.sketchup.com
+dashboard.sketchup.com
+extensions.sketchup.com
+analytics.sketchup.com
+su-telemetry.sketchup.com # [NEW 2026]
+gsuite-entitlements.sketchup.com # [NEW 2026]
+# ===== 2. SKETCHUP LICENSE / ENTITLEMENT =====
+.licensing.sketchup.com # [NEW 2026]
+license1.sketchup.com # [NEW 2026]
+license2.sketchup.com # [NEW 2026]
+license3.sketchup.com # [NEW]
+license4.sketchup.com # [NEW]
+license5.sketchup.com # [NEW]
+license6.sketchup.com # [NEW]
+license7.sketchup.com # [NEW]
+license8.sketchup.com # [NEW]
+legacy-entitlements.sketchup.com # [NEW 2026]
+# ===== 3. SKETCHUP WAREHOUSE / CLOUD =====
+.extensionwarehouse.sketchup.com
+.3dwarehouse.sketchup.com
+updates.sketchup.com
+tscupdater-live.trafficmanager.net # [NEW]
+# ===== 4. TRIMBLE CORE =====
+trimble.com
+trimblepaas.com
+tekla.com
+.trimblecloud.com # [NEW 2026]
+cloud.trimble.com # [NEW]
+# ===== 5. TRIMBLE IDENTITY / AUTH / SSO =====
+.id.trimble.com # [NEW 2026]
+oauth.trimble.com # [NEW]
+auth.trimble.com # [NEW]
+auth.trimblepaas.com # [NEW]
+id.trimblepaas.com # [NEW]
+tpm.trimble.com # [NEW]
+ecom-prd.trimblepaas.com # [NEW 2026]
+.ecom-prd.trimblepaas.com # [NEW 2026]
+ecom-api.trimble.com # [NEW]
+ecom.trimble.com # [NEW]
+# ===== 6. TRIMBLE API / BACKEND =====
+api.trimblepaas.com # [NEW]
+.mxp-api.trimble.com # [NEW 2026]
+.ec2.trimblecloud.com
+connect.trimble.com
+app.connect.trimble.com
+platform.trimble.com # [NEW]
+np.trimble.com # [NEW]
+track.trimble.com # [NEW]
+tracking.trimble.com # [NEW]
+telemetry.trimble.com # [NEW]
+license-manager.trimble.com # [NEW]
+licensing-edge.trimble.com # [NEW]
+# ===== 7. ENSCAPE LICENSING (nếu dùng SketchUp Studio) =====
+api2.enscape3d.com # [NEW 2026]
+api.enscape3d.com
+lic.enscape3d.com # [NEW]
+licensing.inreal-tech.com # [NEW]
+# ===== 8. TEKLA (nếu dùng chung hệ sinh thái Trimble) =====
+api.account.tekla.com # [NEW]
+tracking.tekla.com # [NEW]
+cdn.cookielaw.org # [NEW] (Cookie consent, có thể không cần chặn)
+# ===== 9. ANALYTICS / TRACKING =====
+prod-su-analytics-env-2.us-west-2.elasticbeanstalk.com
+prod-su-analytics-env-3.us-west-2.elasticbeanstalk.com
+# ===== 10. GOOGLE LEGACY (SketchUp cũ) =====
+# --- License / Entitlement ---
+.licensing.trimble.com # [NEW 2026]
+#===== LICENSE / AUTH =====
+tpm.trimble.com
+#===== API / BACKEND =====
+np.trimble.com
+cloud.trimble.com
+#===== DOWNLOAD / UPDATE =====
+tscupdater-live.trafficmanager.net
+#===== SERVICES =====
+help.fieldsystems.trimble.com
+#===== ANALYTICS / TRACKING =====
+track.trimble.com
+tracking.trimble.com
+tracking.tekla.com
+#===== ENSCAPE =====
+api2.enscape3d.com
+telemetry.trimble.com
+su-telemetry.sketchup.com
