@@ -1,0 +1,369 @@
+# ===== BLOCK_AUTODESK LICENSE / GENUINE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license, activation, Genuine Service của Autodesk
+
+# ===== 1. CORE =====
+.autodesk.com
+.autodesk.eu
+.autodesk.net
+.autodesk360.com
+.autodeskcloud.com
+.adsk360.com
+.autodesk.io
+# ===== 2. LICENSE / ACTIVATION (Quan trọng nhất) =====
+license.autodesk.com
+.license.autodesk.com
+activation.autodesk.com
+.activation.autodesk.com
+lm.autodesk.com
+.lm.autodesk.com
+.licensing.autodesk.com
+licensing.autodesk.com
+licensing-api.autodesk.com
+lmlicenses.wip.autodesk.com
+entitlement.autodesk.com
+api.entitlement.autodesk.com
+autodesk.flexnetoperations.com
+.licensing.flexnetoperations.com
+licensing-prod.adskidp.autodesk.com
+identity-clc.autodesk.com
+clc.autodesk.com
+adsk-clc.autodesk.com
+cur.autodesk.com
+registeronce.autodesk.com
+activate.autodesk.com
+practivate.autodesk.com
+activate-sea.autodesk.com
+activate-sjc0.autodesk.com
+# ===== 3. GENUINE CHECK (RẤT QUAN TRỌNG) =====
+genuine-software.autodesk.com
+.genuine-software.autodesk.com
+genuine-software1.autodesk.com
+.genuine-software1.autodesk.com
+genuine-software2.autodesk.com
+.genuine-software2.autodesk.com
+genuine-software3.autodesk.com
+.genuine-software3.autodesk.com
+genuine-software4.autodesk.com
+.genuine-software4.autodesk.com
+genuine-software5.autodesk.com
+.genuine-software5.autodesk.com
+.genuine-software6.autodesk.com
+.genuine-software7.autodesk.com
+api.genuine-software.autodesk.com
+.api.genuine-software.autodesk.com
+api.genuine-software2.autodesk.com
+api.genuine.autodesk.com
+.api.genuine.autodesk.com
+genuine.autodesk.com
+.genuine.autodesk.com
+# ===== 4. ACCOUNT / SSO / AUTH (liên quan license) =====
+accounts.autodesk.com
+.accounts.autodesk.com
+identity.autodesk.com
+.identity.autodesk.com
+sso.autodesk.com
+.sso.autodesk.com
+.access.clic.autodesk.com
+.clm.clic.autodesk.com
+access-us-east-1.clic.autodesk.com
+access-eu-central-1.clic.autodesk.com
+access-ap-southeast-1.clic.autodesk.com
+.cdn.accounts.autodesk.com
+.cur.autodesk.com
+.signin.autodesk.com
+.registeronce.autodesk.com
+.auth.autodesk.com
+.native.auth.autodesk.com
+.profile.autodesk.com
+.api.userprofile.autodesk.com
+.vlh.autodesk.com
+.authn.autodesk.com
+auth.autodesk.com
+native.auth.autodesk.com
+authn.autodesk.com
+cdn.accounts.autodesk.com
+sso.accounts.autodesk.com
+api.accounts.autodesk.com
+api.identity.autodesk.com
+autodesk-id-prod.autodesk.com
+# ===== 5. CLOUD / CLM / IPM =====
+.clm.autodesk.com
+clm.autodesk.com
+.ipm.autodesk.com
+ipm-aem.autodesk.com
+nexus.autodesk.com
+services.adsk360.com
+.access.autodesk.com
+# ===== 6. API liên quan license =====
+.api.autodesk.com
+.developer.api.autodesk.com
+api.autodesk.com
+developer.api.autodesk.com
+api.userprofile.autodesk.com
+profile.autodesk.com
+validation.autodesk.com
+recap-validation.autodesk.com
+# ===== 2. LICENSE / ACTIVATION =====
+.licensing.autodesk.com # [NEW 2026]
+.licensing.flexnetoperations.com # [NEW 2026]
+entitlement.autodesk.com # [NEW 2026]
+api.entitlement.autodesk.com # [NEW 2026]
+licensing-prod.adskidp.autodesk.com # [NEW 2026]
+registeronce.autodesk.com # [NEW 2026]
+autodesk-id-prod.autodesk.com # [NEW 2026]
+# ===== 3. GENUINE CHECK =====
+genuine-software5.autodesk.com # [NEW 2026]
+.genuine-software5.autodesk.com # [NEW 2026]
+.genuine-software6.autodesk.com # [NEW 2026]
+.genuine-software7.autodesk.com # [NEW 2026]
+api.genuine-software2.autodesk.com # [NEW 2026]
+# ===== 4. ACCOUNT / SSO / AUTH =====
+.sso.autodesk.com # [NEW 2026]
+.access.clic.autodesk.com # [NEW 2026]
+.clm.clic.autodesk.com # [NEW 2026]
+.cdn.accounts.autodesk.com # [NEW 2026]
+.cur.autodesk.com # [NEW 2026]
+.signin.autodesk.com # [NEW 2026]
+.registeronce.autodesk.com # [NEW 2026]
+.auth.autodesk.com # [NEW 2026]
+.native.auth.autodesk.com # [NEW 2026]
+.profile.autodesk.com # [NEW 2026]
+.api.userprofile.autodesk.com # [NEW 2026]
+.vlh.autodesk.com # [NEW 2026]
+.authn.autodesk.com # [NEW 2026]
+autodesk-prod.okta.com
+sso.connect.pingidentity.com
+# ===== 5. API / CLOUD / BACKEND =====
+clm.autodesk.com # [NEW 2026]
+.ipm.autodesk.com # [NEW 2026]
+swc.autodesk.com
+api.digital-help-prd.autodesk.com
+vlh.autodesk.com
+api.pserver.sou.autodesk.com
+up.autodesk.com
+assets.autodesk.com
+appstreaming.autodesk.com
+creativetools.autodesk.com
+dpl.autodesk.com
+dev.api.autodesk.com
+adppa.api.autodesk.com
+webservices.autodesk.com
+cloud.autodesk.com
+manage.autodesk.com
+extcidev.autodesk.com
+extciqa.autodesk.com
+jdevextv-new.autodesk.com
+jstgextv-new.autodesk.com
+jstgintv-new.autodesk.com
+# ===== 6. UPDATE / DELIVERY =====
+download.autodesk.com
+trialdownload.autodesk.com
+cdn.autodesk.com
+delivery.autodesk.com
+update.autodesk.com
+liveupdate.autodesk.com
+autoupdatesvc.delivery.autodesk.com
+manifest.delivery.autodesk.com
+compsvc.delivery.autodesk.com
+update.delivery.autodesk.com
+status.delivery.autodesk.com
+dl.appstreaming.autodesk.com
+otwdownloads.autodesk.com
+extupg.autodesk.com
+# ===== 7. TELEMETRY / TRACKING (tùy chọn) =====
+ase.autodesk.com
+ase-cdn-stg.autodesk.com
+smetrics.autodesk.com
+c.wa.autodesk.com
+cip.autodesk.com
+deliveryplatform.autodesk.com
+mpa.autodesk.com
+wormhole.autodesk.com
+web.autodesk.com
+carbon-ads.autodesk.com
+daas.autodesk.com
+data-analytics.autodesk.com
+dm.autodesk.com
+is.autodesk.com
+telemetry.autodesk.com
+ads-api.autodesk.com
+autodesk.demdex.net
+autodesk.tt.omtrdc.net
+# ===== 8. SERVICES / HELP / DOCS (cân nhắc, có thể không chặn) =====
+help.autodesk.com
+docs.autodesk.com
+forums.autodesk.com
+knowledge.autodesk.com
+cadservices.autodesk.com
+ems.autodesk.com
+emsfs.autodesk.com
+subscription.autodesk.com
+# ===== 9. REGION =====
+autodesk.fi
+autodesk.de
+autodesk.es
+autodesk.ca
+autodesk.dk
+autodesk.pl
+# ===== 10. LEGACY / INTERNAL =====
+ns1.autodesk.com
+ns2.autodesk.com
+ns3.autodesk.com
+ns4.autodesk.com
+ns5.autodesk.com
+pedidrq.autodesk.com
+pediqrx.autodesk.com
+petars1.autodesk.com
+gisdmzpdc.autodesk.com
+adeskdi3.autodesk.com
+adeskdmzpdc.autodesk.com
+adeskgate.autodesk.com
+adeskout.autodesk.com
+adsknateur.autodesk.com
+amernetlog.autodesk.com
+planix3d.autodesk.com
+pointa.autodesk.com
+blues.autodesk.com
+mut.autodesk.com
+nut.autodesk.com
+acamp.autodesk.com
+adesknews2.autodesk.com
+app5.autodesk.com
+cvsprd01.autodesk.com
+its.autodesk.com
+locationservices.autodesk.com
+mneprdext-svc.autodesk.com
+otw-new.autodesk.com
+cbuanprd.autodesk.com
+cbuanprhcllb.autodesk.com
+cbuanqa2lb.autodesk.com
+itappprd01-svc.autodesk.com
+itappprd02-svc.autodesk.com
+hubdev-svc.autodesk.com
+hubprd-svc.autodesk.com
+hubstg-svc.autodesk.com
+ci3dwsdev-svc.autodesk.com
+ci3dwsprd-svc.autodesk.com
+ci3dwsstg-svc.autodesk.com
+ftp-users.autodesk.com
+ftp2b.autodesk.com
+usrelay.autodesk.com
+mail-relay.autodesk.com
+aprimo-relay1.autodesk.com
+aprimo-relay2.autodesk.com
+aprimo-relay3.autodesk.com
+aprimo-relay4.autodesk.com
+lbsvzw.autodesk.com
+lbsvzw1.autodesk.com
+lbsvzw2.autodesk.com
+ussclout1.autodesk.com
+vzwlpsrel.autodesk.com
+vzwlpstst.autodesk.com
+spamster-bulk.autodesk.com
+sswwwp.autodesk.com
+autosketch.autodesk.com
+community.autodesk.com
+cut.autodesk.com
+discussion.autodesk.com
+eur.autodesk.com
+hqaribasrf04.autodesk.com
+hqmgwww01.autodesk.com
+hqmgwww04.autodesk.com
+hqmobileweb01.autodesk.com
+hqprxsrftrn.autodesk.com
+hqpsweb01.autodesk.com
+jp.autodesk.com
+library.autodesk.com
+lsctsol04.autodesk.com
+nbugma-dmz.autodesk.com
+partnercenter.autodesk.com
+partnerproducts.autodesk.com
+paste.autodesk.com
+petcp11ia-2nat.autodesk.com
+petcr12ihsrp2.autodesk.com
+phxgciv.autodesk.com
+phxgciv_dr.autodesk.com
+register.autodesk.com
+registerallied-pr.autodesk.com
+salestraining.autodesk.com
+searchnews.autodesk.com
+shop.autodesk.com
+usa.autodesk.com
+uspetcr12ie_198.autodesk.com
+uspetcr12if.autodesk.com
+uspetcr12if_198.autodesk.com
+uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
+uspetcrs12ia_vlan500_2.autodesk.com
+uspetcrs12ib_vlan500_2.autodesk.com
+uspetne06ia_ib_untrust_dip7.autodesk.com
+www.autodesk.com
+www3.autodesk.com
+ipp.autodesk.com
+gda.autodesk.com
+# ===== 11. AUTODESK ECOSYSTEM =====
+itoosoft.com
+plangrid.com
+plangrid.be
+velasystems.com
+velaserver.com
+planfront.com
+# --- API ---
+.cdn.autodesk.com
+.static.autodesk.com
+# ===== CORE =====
+autodesk.com
+autodesk.eu
+autodesk360.com
+autodeskcloud.com
+autodesk.net
+# ===== Core infra / licensing =====
+fonts.autodesk.com
+126114-app1.autodesk.com
+94175-app1.autodesk.com
+94184-app2.autodesk.com
+96579-lbal1.autodesk.com
+it-ops-prd-am-east1.autodesk.com
+# ===== SERVICES =====
+access.clic.autodesk.com
+clm.clic.autodesk.com
+# ===== CDN / EDGE =====
+web-autodesk.edgekey.net
+ownload.autodesk.com.edgekey.net
+# ===== REALTIME =====
+.pubnubapi.com
+pubnubapi.com
+autodesk.pubnubapi.com
+# ===== CAPTCHA =====
+hcaptcha.com
+newassets.hcaptcha.com
+js.hcaptcha.com
+imgs.hcaptcha.com
+# ===== DEPENDENCY (GIỮ NHẸ - KHÔNG BLOCK FULL) =====
+js-agent.newrelic.com
+api.demandbase.com
+munchkin.marketo.net
+918-fod-433.mktoresp.com
+# ===== Tracking / marketing / analytics =====
+stats.g.doubleclick.net
+dpm.demdex.net
+tags.tiqcdn.com
+cm.eversttech.net
+nexus.ensighten.com
+j.6sc.co
+# ===== Microsoft / Azure / SSO =====
+dl.delivery.mp.microsoft.com
+# ===== communication / telemetry relay =====
+a.gtld-servers.net
+b.gtld-servers.net
+c.gtld-servers.net
+d.gtld-servers.net
+e.gtld-servers.net
+f.gtld-servers.net
+g.gtld-servers.net
+h.gtld-servers.net
+i.gtld-servers.net
+j.gtld-servers.net
+k.gtld-servers.net
+l.gtld-servers.net
+m.gtld-servers.net
+bam.nr-data.net
