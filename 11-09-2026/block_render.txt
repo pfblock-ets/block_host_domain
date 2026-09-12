@@ -1,0 +1,163 @@
+# ===== BLOCK_CHAOS LICENSE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation / Cloud Licensing của Chaos (V-Ray, Corona, Enscape...)
+# ===== 1. CORE =====
+.chaos.com
+.chaosgroup.com
+.corona-renderer.com
+.vray.com
+.enscape3d.com
+.enscape.com
+.enscape3d.net
+# ===== 2. LICENSE / ACTIVATION / ENTITLEMENT (Quan trọng nhất) =====
+license.chaos.com
+licensing.chaos.com
+.license.chaos.com
+.licensing.chaos.com
+activation.chaos.com
+update.chaos.com
+license.chaosgroup.com
+licensing.chaosgroup.com
+licensing2.chaos.com
+.ols.chaos.com
+ols.chaos.com
+.ols.chaosgroup.com
+ols.chaosgroup.com
+entitlements.chaos.com
+cloudlicensing.chaos.com
+.my.chaos.com
+my.chaos.com
+.account.chaos.com
+.accounts.chaos.com
+accounts.chaos.com
+.accounts.chaosgroup.com
+accounts.chaosgroup.com
+license.corona-renderer.com
+.license.corona-renderer.com
+licensing.enscape3d.com
+activate.enscape3d.com
+update.enscape3d.com
+lic.enscape3d.com
+licensing.inreal-tech.com
+# ===== 3. AUTH / SSO / IDENTITY =====
+.identity.chaos.com
+.oauth.chaos.com
+auth.chaos.com
+ssooauth.chaos.com
+gateway.chaos.com
+ssogateway.chaos.com
+id.chaos.com
+unilogin.chaos.com
+auth.enscape3d.com
+# ===== 4. API / BACKEND liên quan license =====
+.api.chaos.com
+api.chaos.com
+.api.vraycloud.com
+.vraycloud.com
+.api.enscape3d.com
+.api2.enscape3d.com
+api2.enscape3d.com
+.backend.enscape3d.com
+.api.corona-renderer.com
+# ===== 5. D5 RENDER =====
+.d5render.com
+.rpc.d5render.com
+.api.d5render.com
+.auth.d5render.com
+.cloud.d5render.com
+# ===== 1. CORE CHAOS =====
+chaos.com
+chaosgroup.com
+corona-renderer.com
+vray.com
+enscape3d.com
+enscape.com
+enscape3d.net
+.itoosoft.com
+itoosoft.com
+# ===== 2. LICENSE / ACTIVATION / ENTITLEMENT =====
+.license.chaos.com # [NEW 2026]
+.licensing.chaos.com # [NEW 2026]
+licensing2.chaos.com # [NEW]
+entitlements.chaos.com # [NEW]
+cloudlicensing.chaos.com # [NEW]
+.my.chaos.com # [NEW 2026]
+my.chaos.com # [NEW 2026]
+.account.chaos.com # [NEW 2026]
+api.corona-renderer.com
+lic.enscape3d.com # [NEW]
+licensing.inreal-tech.com # [NEW]
+licensing-edge.trimble.com # [NEW]
+auth.chaos.com # [NEW]
+ssooauth.chaos.com # [NEW]
+gateway.chaos.com # [NEW]
+ssogateway.chaos.com # [NEW]
+id.chaos.com # [NEW]
+config.chaos.com # [NEW]
+unilogin.chaos.com # [NEW]
+auth.enscape3d.com # [NEW]
+# ===== 4. API / BACKEND =====
+service.chaos.com # [NEW]
+portal.chaos.com # [NEW]
+cosmos.chaos.com # [NEW]
+cosmos-api.chaos.com # [NEW]
+content.chaos.com # [NEW]
+vantage.chaos.com # [NEW]
+corona.chaos.com # [NEW]
+cloud.chaos.com # [NEW]
+api.enscape3d.com
+api2.enscape3d.com # [NEW 2026]
+connect.enscape3d.com # [NEW]
+services.enscape3d.com # [NEW]
+my.enscape3d.com # [NEW 2026]
+telemetry-ingest.chaos.com # [NEW]
+# ===== 5. TELEMETRY / TRACKING =====
+.telemetry.chaos.com
+telemetry.chaos.com
+.data.chaos.com
+.analytics.chaos.com # [NEW 2026]
+analytics.chaos.com
+stats.chaos.com # [NEW]
+errors.chaos.com # [NEW]
+.telemetry.enscape3d.com
+.logs.enscape3d.com
+# ===== 6. DOWNLOAD / CDN / UPDATE =====
+download.chaos.com # [NEW]
+cdn.chaos.com # [NEW]
+assets.chaos.com # [NEW]
+updates.chaos.com # [NEW]
+download.chaosgroup.com
+.download.chaosgroup.com
+downloads.chaosgroup.com
+.downloads.chaosgroup.com
+cdn.enscape3d.com # [NEW]
+# ===== 7. LEGACY / DOCS / SUPPORT =====
+docs.chaosgroup.com
+support.chaos.com
+# ===== 8. D5 RENDER =====
+# --- License / Activation ---
+# --- Corona ---
+#===== LICENSE / AUTH =====
+config.chaos.com
+#===== API / BACKEND =====
+service.chaos.com
+portal.chaos.com
+cosmos.chaos.com
+content.chaos.com
+vantage.chaos.com
+corona.chaos.com
+cloud.chaos.com
+connect.enscape3d.com
+#===== DOWNLOAD / CDN / UPDATE =====
+download.chaos.com
+cdn.chaos.com
+assets.chaos.com
+updates.chaos.com
+cdn.enscape3d.com
+#===== TELEMETRY / TRACKING =====
+stats.chaos.com
+errors.chaos.com
+#===== ENSCAPE EXTRA =====
+my.enscape3d.com
+cosmos-api.chaos.com
+services.enscape3d.com
+telemetry-ingest.chaos.com
