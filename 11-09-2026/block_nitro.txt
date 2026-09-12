@@ -1,0 +1,98 @@
+# ===== BLOCK_NITROPDF LICENSE (Optimized 12-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation của Nitro PDF (GoNitro)
+# ===== 1. CORE =====
+.gonitro.com
+.nitro.com
+.nitrocloud.com
+gonitro.com
+.nitro.com # [NEW 2026]
+nitro.com
+.nitrocloud.com # [NEW]
+nitrocloud.com
+# ===== 2. ACTIVATION & LICENSING (Quan trọng nhất) =====
+activate.gonitro.com
+activation.gonitro.com
+licenses.gonitro.com
+license.gonitro.com
+entitlement.gonitro.com
+subscription.gonitro.com
+validation.gonitro.com
+admin.gonitro.com
+ipm.gonitro.com
+admin.gonitro.com # [NEW 2026]
+static.gonitro.com # [NEW 2026]
+ipm.gonitro.com # [NEW]
+sso.gonitro.com # [NEW] (SSO portal)
+sign.gonitro.com # [NEW]
+activate.gonitro.com        # Initial activation endpoint
+activation.gonitro.com      # License validation / re-check
+licenses.gonitro.com        # License server
+entitlement.gonitro.com     # Subscription entitlement check
+subscription.gonitro.com    # Subscription status validation
+# ===== 3. AUTHENTICATION & ACCOUNT =====
+auth.gonitro.com
+id.gonitro.com
+account.gonitro.com
+login.gonitro.com
+sso.gonitro.com
+sign.gonitro.com
+# ===== 4. API / BACKEND liên quan license =====
+api.gonitro.com
+gateway.gonitro.com
+backend.gonitro.com
+client-api.gonitro.com
+config.gonitro.com
+services.gonitro.com
+# ===== 5. LEGACY TRACKING =====
+nitrous.exitfuel.com
+nitrous.internetfuel.com
+# ===== 6. UPDATES =====
+updates.gonitro.com
+downloads.gonitro.com # [NEW]
+# ===== 7. CDN & STATIC CONTENT =====
+cdn.gonitro.com
+# ===== 8. ANALYTICS & TELEMETRY =====
+analytics.gonitro.com
+tracking.gonitro.com
+events.gonitro.com
+stats.gonitro.com
+telemetry.gonitro.com # [NEW]
+# ===== 9. CLOUD =====
+cloud.gonitro.com # [NEW]
+# ===== 10. AD / DISTRIBUTION NETWORK =====
+# ===== BLOCK_NITROPDF =====
+.activate.gonitro.com
+.licenses.gonitro.com
+.services.gonitro.com
+.updates.gonitro.com
+.analytics.gonitro.com
+.api.gonitro.com
+.cdn.gonitro.com
+# ===== AUTHENTICATION & ACCOUNT =====
+auth.gonitro.com            # Authentication service
+id.gonitro.com              # Identity provider
+account.gonitro.com         # User account management
+login.gonitro.com           # Login portal / SSO
+# ===== CORE API & BACKEND =====
+api.gonitro.com             # Main API endpoint
+gateway.gonitro.com         # API gateway / routing
+backend.gonitro.com         # Backend services
+client-api.gonitro.com      # Client-side API calls
+config.gonitro.com          # Remote configuration
+# ===== SERVICES =====
+services.gonitro.com        # Core application services
+# ===== UPDATES =====
+updates.gonitro.com         # Software updates / version check
+# ===== CDN & STATIC CONTENT (OPTIONAL BLOCK) =====
+cdn.gonitro.com             # Static assets (UI, fonts, resources)
+# ===== ANALYTICS & TELEMETRY =====
+analytics.gonitro.com       # Usage analytics
+tracking.gonitro.com        # User tracking
+events.gonitro.com          # Event logging
+stats.gonitro.com           # Metrics / statistics
+# ===== AD / DISTRIBUTION NETWORK =====
+nitrous.exitfuel.com        # Ad / distribution tracking
+nitrous.internetfuel.com    # Ad / tracking backend
+telemetry.gonitro.com
+cloud.gonitro.com
+downloads.gonitro.com
