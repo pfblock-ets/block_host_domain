@@ -1,0 +1,46 @@
+# ===== BLOCK_RHINO LICENSE (Optimized 14-09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation của Rhino (Cloud Zoo + LAN Zoo)
+# ===== 1. CORE =====
+.mcneel.com
+.rhino3d.com
+mcneel.com
+rhino3d.com
+# ===== 2. LICENSE / ACTIVATION (Quan trọng nhất) =====
+license.rhino3d.com
+licenses.rhino3d.com
+.licenses.rhino3d.com
+validation.rhino3d.com
+cloudzoo.rhino3d.com
+zoo.mcneel.com
+licensing.mcneel.com
+license.mcneel.com
+# ===== 3. ACCOUNT / AUTH / IDENTITY =====
+accounts.rhino3d.com
+.accounts.rhino3d.com
+login.rhino3d.com
+id.rhino3d.com
+auth.rhino3d.com
+sso.rhino3d.com
+account.mcneel.com
+# ===== 4. API / BACKEND liên quan license =====
+api.mcneel.com
+.api.mcneel.com
+api.rhino3d.com
+gateway.rhino3d.com
+backend.rhino3d.com
+services.rhino3d.com
+services.mcneel.com
+compute.rhino3d.com
+yak.rhino3d.com
+# ===== 5. UPDATE / DOWNLOAD =====
+update.rhino3d.com # [NEW]
+updates.rhino3d.com # [NEW]
+download.rhino3d.com # [NEW]
+# ===== 6. TELEMETRY / TRACKING =====
+telemetry.rhino3d.com # [NEW]
+analytics.rhino3d.com # [NEW]
+stats.rhino3d.com # [NEW]
+telemetry.mcneel.com # [NEW]
+# ===== 7. FOOD4RHINO =====
+.food4rhino.com # [NEW]
+food4rhino.com
