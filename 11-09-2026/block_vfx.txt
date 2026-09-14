@@ -1,0 +1,101 @@
+# ===== BLOCK_VFX LICENSE (Optimized 09-2026) =====
+# Mục tiêu: Chặn kiểm tra license của Foundry, Maxon, SideFX
+# ===== 1. FOUNDRY (Nuke, Mari, Katana, Modo) =====
+# --- Core ---
+.foundry.com
+foundry.com
+# --- License / Activation ---
+license.foundry.com
+licensing-api.foundry.com
+.licensing.foundry.com
+licenceapi.foundry.com
+fnlicensing.foundry.com
+entitlements.foundry.com
+gateway.foundry.com
+config.foundry.com
+# --- Identity / Auth / SSO ---
+.identity.foundry.com
+identity.foundry.com
+.id.foundry.com
+id.foundry.com
+.users.foundry.com
+users.foundry.com
+sso.foundry.com
+account.foundry.com
+auth.foundry.com
+# --- API / Backend ---
+.api.foundry.com
+api.foundry.com
+services.foundry.com
+# --- Download / Update ---
+.downloads.foundry.com
+downloads.foundry.com
+download.foundry.com
+# --- Telemetry / Tracking ---
+tracking.foundry.com
+stats.foundry.com
+telemetry.foundry.com
+# ===== 2. MAXON (Cinema 4D, Redshift, Red Giant) =====
+# --- Core ---
+.maxon.net
+maxon.net
+# --- License / Activation ---
+license.maxon.net
+.licensing.maxon.net
+licensing.maxon.net
+maxon-licensing.maxon.net
+ipm.maxon.net
+# --- Identity / Auth / SSO ---
+.id.maxon.net
+id.maxon.net
+auth.maxon.net
+account.maxon.net
+identity.maxon.net
+sso.maxon.net
+# --- API / Backend ---
+.my.maxon.net
+my.maxon.net
+api.maxon.net
+services.maxon.net
+app.maxon.net
+.release-api.maxon.net
+release-api.maxon.net
+# --- Redshift ---
+.redshift3d.com
+redshift3d.com
+licensing.redshift3d.com
+# --- Download / Update ---
+dl.maxon.net
+updates.maxon.net
+# --- Telemetry / Tracking ---
+.analytics.maxon.net
+analytics.maxon.net
+# ===== 3. SIDEFX (Houdini) =====
+# --- Core ---
+.sidefx.com
+sidefx.com
+# --- License / Activation ---
+.license.sidefx.com
+license.sidefx.com
+licensing.sidefx.com
+license-server.sidefx.com
+sesinetd.sidefx.com
+hservices.sidefx.com
+cloud.sidefx.com
+# --- Identity / Auth / SSO ---
+accounts.sidefx.com
+sso.sidefx.com
+entitlements.sidefx.com
+# --- API / Backend ---
+.api.sidefx.com
+api.sidefx.com
+www.sidefx.com
+services.sidefx.com
+# --- Download / Update ---
+launcher.sidefx.com
+# --- Telemetry / Tracking ---
+.telemetry.sidefx.com
+telemetry.sidefx.com
+tracking.sidefx.com
+analytics.sidefx.com
+sidefx.com/download
