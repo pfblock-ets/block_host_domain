@@ -1,0 +1,101 @@
+# ===== BLOCK_TECHSMITH LICENSE (Optimized 09-2026) =====
+# Mục tiêu: Chặn kiểm tra license / activation của TechSmith (Camtasia, Snagit...)
+# ===== 1. CORE =====
+.techsmith.com
+.camtasia.com
+.snagit.com
+.screencast.com
+.techsmithrelay.com
+.knowmia.com
+techsmith.com
+camtasia.com
+snagit.com
+techsmithrelay.com
+knowmia.com
+screencast.com
+# ===== 2. LICENSE / ACTIVATION (Nalpeiron - Quan trọng nhất) =====
+my.nalpeiron.com
+nsa.nalpeiron.com
+api.nalpeiron.com
+clm.nalpeiron.com
+activation.cloud.techsmith.com
+.activation.cloud.techsmith.com
+licensing.cloud.techsmith.com
+entitlement.cloud.techsmith.com
+entitlements.techsmith.com
+validation.techsmith.com
+ipm.techsmith.com
+# ===== 3. AUTHENTICATION & ACCOUNT =====
+.login.techsmith.com
+login.techsmith.com
+signin.techsmith.com
+account.techsmith.com
+identity.techsmith.com
+auth.techsmith.com
+myaccount.techsmith.com
+manage.techsmith.com
+# ===== 4. API / BACKEND liên quan license =====
+.api.techsmith.com
+api.techsmith.com
+.services.techsmith.com
+services.techsmith.com
+.cloud.techsmith.com
+cloud.techsmith.com
+library-api.cloud.techsmith.com
+gateway.backend.techsmith.com
+audiatetoken.cloud.techsmith.com
+avatar.cloud.techsmith.com
+ai.cloud.techsmith.com
+cdn-audiate.cloud.techsmith.com
+cdn.cloud.techsmith.com
+feedback.techsmith.com
+sales.techsmith.com
+# ===== 5. UPDATE / DOWNLOAD =====
+.update.techsmith.com
+update.techsmith.com
+.updater.techsmith.com
+updater.techsmith.com
+.download.techsmith.com
+download.techsmith.com
+.cdn.techsmith.com
+cdn.techsmith.com
+# ===== 6. TELEMETRY / TRACKING / ANALYTICS =====
+.track.techsmith.com
+track.techsmith.com
+.oscount.techsmith.com
+oscount.techsmith.com
+.telemetry.techsmith.com
+telemetry.techsmith.com
+.event.techsmith.com
+event.techsmith.com
+stats.techsmith.com
+analytics.techsmith.com
+events.techsmith.com
+ssgtm.techsmith.com
+api2.amplitude.com
+techsmith.sp.backtrace.io
+submit.backtrace.io
+events.backtrace.io
+# ===== 7. STREAMING / REAL-TIME =====
+tscpresent-live.service.signalr.net
+wss://tscpresent-live.service.signalr.net
+# ===== 8. CLOUD INFRA (MICROSOFT AZURE) =====
+tscscreencastliveeast.blob.core.windows.net
+tscscreencastlive.blob.core.windows.net
+tscavatarservicelive.blob.core.windows.net
+js.monitor.azure.com
+az416426.vo.msecnd.net
+*.applicationinsights.azure.com
+dc.services.visualstudio.com
+# ===== 9. SCREENCAST SERVICES =====
+api.screencast.com
+cdn.screencast.com
+app.screencast.com
+# ===== 10. REGIONAL DOMAINS =====
+techsmith.es
+techsmith.fr
+techsmith.de
+techsmith.pt
+techsmith.co.jp
+#===== TELEMETRY / TRACKING =====
+assets.techsmith.com
